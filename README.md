@@ -5,9 +5,9 @@ No one doesn't know Hangman - a classic letter guessing game where you are shown
 To play the game, simply run the Python script and follow the instructions on the screen.
 
 
-~~~~~~~~~~~~~~~~VER 1.3~~~~~~~~~~~~~~~~~
+.~~~~~~~~~~~~~~~~VER 1.3~~~~~~~~~~~~~~~~~.
 + Add more topics
 
-~~~~~~~~~~~~~~~VER 1.3.1~~~~~~~~~~~~~~~~
+.~~~~~~~~~~~~~~~VER 1.3.1~~~~~~~~~~~~~~~~.
 + Add progress bar
 (Idk why did I do this, but it's cool right?)
