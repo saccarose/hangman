@@ -3,3 +3,11 @@ This is a program of the game Hangman
 No one doesn't know Hangman - a classic letter guessing game where you are shown a set of blank letters that match a word or phrase and you have to guess what these letters are to reveal the hidden word.
 
 To play the game, simply run the Python script and follow the instructions on the screen.
+
+
+~~~~~~~~~~~~~~~~VER 1.3~~~~~~~~~~~~~~~~~
++ Add more topics
+
+~~~~~~~~~~~~~~~VER 1.3.1~~~~~~~~~~~~~~~~
++ Add progress bar
+(Idk why did I do this, but it's cool right?)
