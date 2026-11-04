@@ -136,12 +136,12 @@ def main():
         input_key = ord(getch())
 
         if input_key == 48:
-            with open('WORD/random.txt', 'r') as f:
+            with open('random.txt', 'r') as f:
                 wordlist = f.readlines()
                 break
         
         if input_key == 49:
-            with open('WORD/animals.txt', 'r') as f:
+            with open('animals.txt', 'r') as f:
                 wordlist = f.readlines()
                 break
 
